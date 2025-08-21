@@ -1,8 +1,8 @@
 # go-utils
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourname/go-utils)](https://goreportcard.com/report/github.com/yourname/go-utils)
+[![Go Report Card](https://goreportcard.com/badge/github.com/qingfeng-studio/go-utils)](https://goreportcard.com/report/github.com/qingfeng-studio/go-utils)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Go Reference](https://pkg.go.dev/badge/github.com/yourname/go-utils.svg)](https://pkg.go.dev/github.com/yourname/go-utils)
+[![Go Reference](https://pkg.go.dev/badge/github.com/qingfeng-studio/go-utils.svg)](https://pkg.go.dev/github.com/qingfeng-studio/go-utils)
 
 `go-utils` 是一个 Go 语言的通用工具库集合，旨在为 Go 开发者提供一系列开箱即用、经过验证的常用功能模块。它封装了日志、HTTP 客户端、数据处理、加密解密等高频需求，帮助你快速搭建项目，减少重复造轮子，专注于核心业务逻辑。
 
@@ -29,7 +29,7 @@
 ### 1. 安装
 
 ```bash
-go get github.com/yourname/go-utils
+go get github.com/qingfeng-studio/go-utils
 ```
 
 ## 🧪 测试命令速查表

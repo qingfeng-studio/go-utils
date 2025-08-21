@@ -1,4 +1,4 @@
-module go-utils
+module github.com/qingfeng-studio/go-utils
 
 go 1.22.3
 
