@@ -157,7 +157,7 @@ func (l *Logger) init() error {
 		l.level,
 	)
 
-	l.logger = zap.New(core, zap.AddCaller(), zap.AddCallerSkip(1), zap.AddStacktrace(zap.ErrorLevel))
+	l.logger = zap.New(core, zap.AddCaller(), zap.AddCallerSkip(2), zap.AddStacktrace(zap.ErrorLevel))
 	return nil
 }
 
